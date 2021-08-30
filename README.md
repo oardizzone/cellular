@@ -4,7 +4,11 @@ Inspired by TheCodingTrain's video on cellular automata, this is an implementati
 
 ## React
 
-Can be hosted using by changing directory to `gol-react` and then running `npx serve build`.
+Can be hosted using by changing directory to `gol-react` and then running:
+```
+npm run build
+npx serve build
+```
 
 ## Angular
 
