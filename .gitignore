@@ -1,0 +1,8 @@
+# dependencies
+/gol-react/node_modules/
+
+# production
+gol-react/build/
+
+# misc
+**/.DS_Store
